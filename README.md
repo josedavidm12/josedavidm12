@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy José David Martinez Espinosa 
 
-![Banner]([https://source.unsplash.com/1600x500/?technology,code](https://cdn.pixabay.com/photo/2015/12/07/11/10/banner-1080615_960_720.jpg])
+![Banner](https://cdn.pixabay.com/photo/2015/12/07/11/10/banner-1080615_960_720.jpg)
 
 ## 🚀 Sobre mí
 Soy un apasionado de la **ingeniería industrial** y el **análisis de datos**. Actualmente, soy monitor del curso de **Diseño de Experimentos y Análisis de Regresión** en la **Universidad de Antioquia**. Me interesa el aprendizaje automático, la optimización y la aplicación de la ciencia de datos en procesos industriales y empresariales.
