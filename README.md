@@ -13,7 +13,7 @@ Soy un apasionado de la **ingeniería industrial** y el **análisis de datos**. 
 - 🌐 Desarrollo web: HTML, CSS, JavaScript
 
 ## 📬 Contáctame
-- 📧 Email: [TuEmail@ejemplo.com](jose.martinez16@udea.edu.co)
-- 📂 GitHub: [github.com/TuUsuario](https://github.com/josedavidm12)
+- 📧 Email: [jose.martinez16@udea.edu.co](jose.martinez16@udea.edu.co)
+- 📂 GitHub: [github.com/josedavidm12](https://github.com/josedavidm12)
 
 ⭐ ¡No olvides dejar una estrella en mis repositorios si te resultan útiles! ⭐
